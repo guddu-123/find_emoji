@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #002651;
+}
+h1{
+    font-family: Bradley Hand, cursive;
+    font-weight: lighter;
+    color: #f3fbff;
+}
+.containert{
+    text-align: center;
+    padding: 20px;
+}
+#searchResultContainer{
+    color: #D6edff;
+    padding: 20px;
+    font-size:1.4rem;
+    font-family: Bradley Hand, cursive	;
+    font-weight: lighter;
+}
+.box2{
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+
+}
+#searchBar{
+    height: 2rem;
+    font-family:URW Chancery L, cursive ;
+    font-weight: lighter;
+    border-radius: 12rem;
+    padding-left: 1.3rem;
+    border: 2px solid #5ab4e1 ;
+    /* padding-top: 4rem; */
+    
+}
+#SubmitButton{
+    height: 2.1rem;
+    margin-left:20px ;
+    background-color: #a0d4ff ;
+    font-weight: bold;
+    font-family: Lucida Handwriting ;
+    border-radius: 12rem;
+    border: 2px solid #5ab4e1 ;
+    cursor: pointer;
+}
+p{
+    text-align: center;
+    font-family: MV Boli;
+    font-size: .70rem;
+    opacity: 40%;
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #034077;
+    color: white;
+    text-align: center;
+  }
+  h5{
+    color: #f3fbff;
+    font-family: papyrus;
+    font-weight: lighter;
+    margin-top: -20px;
+  }
+ 
